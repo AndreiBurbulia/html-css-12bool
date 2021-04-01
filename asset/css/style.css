@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+}
+
+[class*="col-"]{
+    background-color: pink;
+    border: 1px solid black;
+    height: 100px;
+}
+
+.fucsia [class*="col-"]{
+    background-color: fuchsia;
+    border: 1px solid white;
+    height: 90px;
+}
+
+.row.footer>.col-6{
+    padding: 5px;
+}

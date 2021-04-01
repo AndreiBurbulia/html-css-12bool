@@ -1,0 +1,72 @@
+.container{
+    text-align: center;
+    line-height: 100px;
+    vertical-align: middle;
+}
+
+[class*="col-"]{
+    /* background-color: rgb(212, 8, 42); */
+    /* border: 1px solid black; */
+    height: 15px;
+}
+
+
+/* COLORE GIALLO SFONDO */
+
+.g{
+    background-color: #FFFF83;
+}
+.gs{
+    background-color: #D9D944;
+}
+
+.v1{
+    background-color: #65D58B;
+}
+
+.v1b{
+    background-color: #5EBF7F;
+}
+
+.v2{
+    background-color: #348A6D;
+}
+
+.v3{
+    background-color: #15503C;
+}
+
+.r1{
+    background-color: #835A54;
+}
+.r2{
+    background-color: #FF5C71;
+}
+
+.b{
+    background-color: black;
+}
+
+.o1{
+    background-color:#2F424D ;
+}
+
+.oo{
+    background-color: #D4EAF7;
+}
+
+.m1{
+    background-color: #553E36;
+}
+
+.m2{
+    background-color: #865D57;
+}
+
+.m3{
+    background-color: #D9968E;
+}
+
+.m4{
+    background-color: #663931;
+}
